@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hypha Blog"
+title = "Mycelium"
 theme = "anubis2"
 
 [caches]
@@ -11,7 +11,7 @@ theme = "anubis2"
 pagerSize = 5
 
 [params.author]
-name = "Hypha"
+name = "hypha"
 
 [[menu.main]]
 identifier = "home"
