@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+
+  <channel>
+    <title>Hypha Blog</title>
+    <link>//localhost:1313/</link>
+    <description>Recent blog posts on Hypha Blog</description>
+    
+    <generator>Hugo (https://gohugo.io)</generator>
+    
+    <language>en-us</language>
+    
+    <managingEditor></managingEditor>
+    
+    <webMaster></webMaster>
+    
+    <lastBuildDate>Fri, 01 Aug 2025 13:19:14 +0800</lastBuildDate>
+    
+    <atom:link href="//localhost:1313/tags/belfast/index.xml" rel="self" type="application/rss+xml" />
+    
+
+    <item>
+      <title>Belfast</title>
+      <link>//localhost:1313/posts/belfast/</link>
+      <pubDate>Fri, 01 Aug 2025 13:19:14 +0800</pubDate>
+      
+      <author></author>
+
+      
+      
+      
+      
+
+      <description>
+       # Belfast Maine 
+      </description>
+      <guid isPermaLink="true">//localhost:1313/posts/belfast/</guid>
+    </item>
+    
+  </channel>
+</rss>

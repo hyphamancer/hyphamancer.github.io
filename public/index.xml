@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+
+  <channel>
+    <title>Hypha Blog</title>
+    <link>//localhost:1313/</link>
+    <description>Recent blog posts on Hypha Blog</description>
+    
+    <generator>Hugo (https://gohugo.io)</generator>
+    
+    <language>en-us</language>
+    
+    <managingEditor></managingEditor>
+    
+    <webMaster></webMaster>
+    
+    <lastBuildDate>Fri, 01 Aug 2025 13:19:14 +0800</lastBuildDate>
+    
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+
+    <item>
+      <title>Belfast Maine</title>
+      <link>//localhost:1313/posts/belfast/</link>
+      <pubDate>Fri, 01 Aug 2025 13:19:14 +0800</pubDate>
+      
+      <author></author>
+
+      
+      
+      
+      
+
+      <description>
+      These photos were edited in Affinity Photo to bring out the red of the bricks.
+Shot with Cyberpunk Konica FS-1 Konica 50mm F1.7 Belfast Maine July 25, 2025 Hypha
+Shot with Cyberpunk Konica FS-1 Soligor Auto-Zoom 90-230mm F4.5 Belfast Maine July 25, 2025 Hypha
+There are a few things I would change. It was raining outside so I used my car as a tripod to take these shots. My camera is super sensitive to motion and considering it has no image stabilization at all. So, having my car running while trying to take photos made every photo blurry. I didn&amp;amp;rsquo;t notice it on the view finder. Secondly, I should&amp;amp;rsquo;ve brought my batteries and for whatever reason the camera kept shutting down. So, I had to be quick with my shots. I&amp;amp;rsquo;m not sure if this raspberry pi has a thermal issue or I did something wrong but it gets super hot super fast. I should check the journalctl to see if CamUI is causing the pi to crash or if its overheating.
+
+      </description>
+      <guid isPermaLink="true">//localhost:1313/posts/belfast/</guid>
+    </item>
+    
+
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0800</pubDate>
+      
+      <author></author>
+
+      
+      
+      
+      
+
+      <description>
+       # Introduction During Covid I picked up a Fujica ST-605. Analog photography is fun but I don&amp;amp;rsquo;t have the space for a whole ass darkroom. I found a guide on how to use a Raspberry Pi to take digital photos in an analog body.
+Then I cam across a cheap Soligor lens that had a Konica mount. The Fujica is m42 and there&amp;amp;rsquo;s no reliable adapter. Because of where the sensor sits I don&amp;amp;rsquo;t have infinity focus so I don&amp;amp;rsquo;t need to worry about a weird mount but this gave me an excuse to buy another camera. &amp;amp;gt;:) Frankly, the reason I wanted to buy the Konica is because the Fujica is tiny on the inside and I didn&amp;amp;rsquo;t want to cut the back of the camera door. The Fujica had a special place in my heart.
+
+      </description>
+      <guid isPermaLink="true">//localhost:1313/about/</guid>
+    </item>
+    
+  </channel>
+</rss>

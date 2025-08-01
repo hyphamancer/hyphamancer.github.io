@@ -1,0 +1,48 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Hypha Blog"
+theme = "anubis2"
+
+[pagination]
+pagerSize = 5
+
+[params.author]
+name = "Hypha"
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 4
+
+[markup.goldmark.renderer]
+unsafe = true # Enable unsafe mode to have a better experience
+
+[markup.highlight]
+style              = 'catppuccin-frappe' # Find more style at here: https://swapoff.org/chroma/playground/
+
+[params.anubis2]
+  # Leave all parameters empty to use the default values.
+  ## social Icons
+  socialIcons = [
+      {id = "instagram", url = "https://pixelfed.social/hyphamancer"},
+      {id = "bluesky", url = "https://bsky.app/profile/hyphamancer.bsky.social"}
+  ]
