@@ -14,13 +14,23 @@ I cut a hole in the back of the Konica so I could fit a ribbon cable out the bac
 So the Konica looks like a natural SLR camera where as the Fujica looks a little wonky. I still like them both. 
 
 ## Fujica St-605
-cam images<br>
+{{< figure
+  src=https://cdn.discordapp.com/attachments/1378154788092379146/1401352182053339207/IMG_1769.png?ex=688ff66c&is=688ea4ec&hm=ea6c779903e1f2b7f1f16e3f75bbf40160f40879622f15204bb58ccdb2258aeb&
+  alt="rooftops main street of belfast"
+  caption="Cyberpunk Fujica ST-605"
+  loading=lazy
+>}}
 Rasperry Pi Zero 2W<br>
 IMX 708 Arducam<br>
 [PowerBoost](https://www.adafruit.com/product/1903)
 
 ## Konica FS-1
-cam images<br>
+{{< figure
+  src=https://cdn.discordapp.com/attachments/1378154788092379146/1401352187996803123/IMG_1770.png?ex=688ff66d&is=688ea4ed&hm=501a859fc39edf8f359f9784f3b8cb41d4e71bd4a8f3eddb584b0eed20c57435&
+  alt="rooftops main street of belfast"
+  caption="Cyberpunk Konica FS-1"
+  loading=lazy
+>}}
 Rasperry Pi Zero 2W<br>
 IMX 708 Arducam<br>
 [PowerBoost](https://www.adafruit.com/product/1903)
@@ -28,14 +38,15 @@ IMX 708 Arducam<br>
 ## Canon PowerShot XS710 HS
 
 ## OM-D E-M10 Mark ii
+Olympus M.Zuiko Digital ED 14-42mm f/3.5-5.6
 
 ## Lenses
 Soligor Auto-Zoom 90-230mm F4.5<br>
 Konica 50mm F1.7 
 
-Takumar SMC 28mm<br>
-Takumar SMC 35mm<br>
-Takumar SMC 55mm
+Takumar SMC 28mm f3.5<br>
+Takumar SMC 35mm f3.5<br>
+Takumar SMC 55mm f2.2
 
-Soligor
-Soligor
+Soligor 28mm f2.8<br>
+Soligor 135mm f2.8
