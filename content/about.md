@@ -16,7 +16,7 @@ So the Konica looks like a natural SLR camera where as the Fujica looks a little
 ## Fujica St-605
 {{< figure
   src=https://cdn.discordapp.com/attachments/1378154788092379146/1401352182053339207/IMG_1769.png?ex=688ff66c&is=688ea4ec&hm=ea6c779903e1f2b7f1f16e3f75bbf40160f40879622f15204bb58ccdb2258aeb&
-  alt="rooftops main street of belfast"
+  alt="Cyberpunk Fujica ST-605"
   caption="Cyberpunk Fujica ST-605"
   loading=lazy
 >}}
@@ -27,7 +27,7 @@ IMX 708 Arducam<br>
 ## Konica FS-1
 {{< figure
   src=https://cdn.discordapp.com/attachments/1378154788092379146/1401352187996803123/IMG_1770.png?ex=688ff66d&is=688ea4ed&hm=501a859fc39edf8f359f9784f3b8cb41d4e71bd4a8f3eddb584b0eed20c57435&
-  alt="rooftops main street of belfast"
+  alt="Cyberpunk Konica FS-1"
   caption="Cyberpunk Konica FS-1"
   loading=lazy
 >}}
