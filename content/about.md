@@ -21,7 +21,7 @@ So the Konica looks like a natural SLR camera where as the Fujica looks a little
   loading=lazy
 >}}
 Rasperry Pi Zero 2W<br>
-IMX 708 Arducam<br>
+IMX 708 Arducam -> I use the version with the m12 mount to remove the lens.<br>
 [PowerBoost](https://www.adafruit.com/product/1903)
 
 ## Konica FS-1
@@ -32,7 +32,7 @@ IMX 708 Arducam<br>
   loading=lazy
 >}}
 Rasperry Pi Zero 2W<br>
-IMX 708 Arducam<br>
+IMX 708 Arducam -> I use the version with the m12 mount to remove the lens.<br>
 [PowerBoost](https://www.adafruit.com/product/1903)
 
 ## Canon PowerShot XS710 HS
