@@ -1,7 +1,7 @@
 +++
 date = '2025-08-03T15:58:55-04:00'
 draft = false
-title = 'DnD_DiscGolf'
+title = 'Found a Frog at DnD Disc Golf'
 tags = ['sidney', 'maine', 'discgolf', 'frog', 'animal', 'forest', 'creature', 'dnd']
 +++
 
